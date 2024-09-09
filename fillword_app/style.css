@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "VAGWorld-Bold"; 
+  src: url("./assets/fonts/ofont.ru_VAG\ World.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 
+
+body, button {
+  font-family: "VAGWorld-Bold";
+}
